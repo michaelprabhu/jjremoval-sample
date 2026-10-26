@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560" role="img" aria-labelledby="title desc">
+  <title id="title">Removal-service illustration</title>
+  <desc id="desc">A geometric open container with a box and branch, drawn as a visual metaphor for removal services.</desc>
+  <rect width="720" height="560" fill="#dce4df"/>
+  <path d="M0 442H720" fill="none" stroke="#183b35" stroke-width="7"/>
+  <circle cx="516" cy="128" r="105" fill="#f2c755"/>
+  <path d="M70 352c76-55 126-60 190-54 43 4 74 28 116 24" fill="none" stroke="#f08b6d" stroke-width="13" stroke-linecap="round"/>
+  <path d="m357 302 35 19-38 13" fill="none" stroke="#f08b6d" stroke-width="13" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M153 286h413l-36 154H190z" fill="#2c6252" stroke="#183b35" stroke-width="13" stroke-linejoin="round"/>
+  <path d="M142 276h435v28H142z" fill="#183b35"/>
+  <path d="m208 315-22 105M301 315l-9 105M396 315l4 105M490 315l17 105" fill="none" stroke="#f2c755" stroke-width="10" stroke-linecap="square"/>
+  <path d="M174 440h355" fill="none" stroke="#183b35" stroke-width="14"/>
+  <circle cx="235" cy="466" r="29" fill="#f08b6d" stroke="#183b35" stroke-width="12"/>
+  <circle cx="475" cy="466" r="29" fill="#f08b6d" stroke="#183b35" stroke-width="12"/>
+  <path d="M198 235 230 116l119 35-27 109z" fill="#f08b6d" stroke="#183b35" stroke-width="12" stroke-linejoin="round"/>
+  <path d="m230 116 31-38 118 34-30 39" fill="#f2c755" stroke="#183b35" stroke-width="12" stroke-linejoin="round"/>
+  <path d="m260 79 5 72M321 96l-20 82M373 116l-31 72" fill="none" stroke="#183b35" stroke-width="8"/>
+  <path d="M493 260c-4-70 3-115 31-159m-31 55c-29-1-45-13-58-34m60 11c26-8 44-25 54-50m-62 79c-26 10-39 24-47 48" fill="none" stroke="#183b35" stroke-width="13" stroke-linecap="round"/>
+  <path d="M455 144c-17-18-18-38-4-50 20 4 31 18 28 38m30-20c5-23 20-34 38-31 7 18 1 35-18 45m-64 50c-20-12-28-30-18-46 21 0 35 11 37 31" fill="#2c6252" stroke="#183b35" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M93 221h57m-57 24h42m-42 24h28" stroke="#183b35" stroke-width="9" stroke-linecap="square"/>
+  <path d="M589 356h46m-46 24h32m-32 24h19" stroke="#f08b6d" stroke-width="9" stroke-linecap="square"/>
+</svg>
